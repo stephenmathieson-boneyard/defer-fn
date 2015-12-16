@@ -1,5 +1,6 @@
 {
   "name": "defer-fn",
+  "version": "1.0.0",
   "description": "Defer a function's execution",
   "main": "index.js",
   "scripts": {
